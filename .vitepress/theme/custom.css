@@ -1,0 +1,147 @@
+/* ─────────────────────────────────────────────────────────────
+   THERMAL DOCS — VitePress theme overrides
+   Match thermalthemes.com instrumentation register.
+   Dark stage. Mono data. Single heat accent.
+   ───────────────────────────────────────────────────────────── */
+
+:root {
+  --thermal-bg:        #0e0e0c;
+  --thermal-bg-2:      #161614;
+  --thermal-line:      #2a2a26;
+  --thermal-line-hot:  #3a3a34;
+  --thermal-ink:       #ece8df;
+  --thermal-ink-mid:   #8a877d;
+  --thermal-ink-dim:   #56544c;
+  --thermal-heat:      #ff5a1f;
+  --thermal-heat-low:  #ff5a1f33;
+
+  --thermal-mono:    "JetBrains Mono", "SF Mono", ui-monospace, monospace;
+  --thermal-display: "Inter Tight", system-ui, sans-serif;
+}
+
+/* Dark mode tokens — VitePress applies .dark on html */
+.dark {
+  --vp-c-bg:           var(--thermal-bg);
+  --vp-c-bg-alt:       var(--thermal-bg-2);
+  --vp-c-bg-elv:       var(--thermal-bg-2);
+  --vp-c-bg-soft:      var(--thermal-bg-2);
+
+  --vp-c-text-1:       var(--thermal-ink);
+  --vp-c-text-2:       var(--thermal-ink-mid);
+  --vp-c-text-3:       var(--thermal-ink-dim);
+
+  --vp-c-divider:      var(--thermal-line);
+  --vp-c-gutter:       var(--thermal-line);
+  --vp-c-border:       var(--thermal-line);
+
+  --vp-c-brand-1:      var(--thermal-heat);
+  --vp-c-brand-2:      var(--thermal-heat);
+  --vp-c-brand-3:      var(--thermal-heat);
+  --vp-c-brand-soft:   var(--thermal-heat-low);
+
+  --vp-c-default-1:    var(--thermal-bg-2);
+  --vp-c-default-2:    var(--thermal-bg-2);
+  --vp-c-default-3:    var(--thermal-line);
+  --vp-c-default-soft: var(--thermal-line);
+
+  --vp-button-brand-bg:        var(--thermal-heat);
+  --vp-button-brand-text:       var(--thermal-bg);
+  --vp-button-brand-hover-bg:   var(--thermal-heat);
+  --vp-button-brand-hover-text: var(--thermal-bg);
+  --vp-button-brand-active-bg:  var(--thermal-heat);
+  --vp-button-brand-border:     var(--thermal-heat);
+  --vp-button-brand-hover-border: var(--thermal-heat);
+  --vp-button-brand-active-border: var(--thermal-heat);
+
+  --vp-code-color:         var(--thermal-heat);
+  --vp-code-bg:            var(--thermal-bg-2);
+  --vp-code-block-bg:      #1c1c19;
+
+  --vp-sidebar-bg-color:   var(--thermal-bg);
+
+  --vp-nav-bg-color:       var(--thermal-bg);
+  --vp-nav-logo-height:    20px;
+}
+
+/* Light mode tokens — still on-brand, less stage-y */
+:root:not(.dark) {
+  --vp-c-brand-1:      #d24a18;
+  --vp-c-brand-2:      #d24a18;
+  --vp-c-brand-3:      #d24a18;
+  --vp-c-brand-soft:   #d24a181a;
+
+  --vp-button-brand-bg:        #d24a18;
+  --vp-button-brand-hover-bg:  #d24a18;
+  --vp-button-brand-active-bg: #d24a18;
+
+  --vp-code-color:     #d24a18;
+}
+
+/* Typography */
+:root {
+  --vp-font-family-base: var(--thermal-display);
+  --vp-font-family-mono: var(--thermal-mono);
+}
+
+/* Site title in the nav — mono register */
+.VPNavBarTitle .title {
+  font-family: var(--thermal-mono) !important;
+  font-size: 0.8125rem !important;
+  letter-spacing: 0.08em !important;
+  font-weight: 500 !important;
+}
+
+/* Sidebar headers — mono register */
+.VPSidebarItem.level-0 > .item > .text {
+  font-family: var(--thermal-mono) !important;
+  font-size: 0.6875rem !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  color: var(--thermal-ink-mid);
+}
+
+.dark .VPSidebarItem.level-0 > .item > .text {
+  color: var(--thermal-ink-mid);
+}
+
+/* Heading register */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--thermal-display);
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-weight: 700 !important;
+}
+
+/* Code register — mono font already, just tighten */
+code {
+  font-feature-settings: "kern", "liga";
+}
+
+/* Selection — heat accent */
+.dark ::selection {
+  background: var(--thermal-heat);
+  color: var(--thermal-bg);
+}
+
+/* Subtle border accents on nav/sidebar */
+.dark .VPNavBar {
+  border-bottom: 1px solid var(--thermal-line) !important;
+}
+
+/* Hero on landing page */
+.VPHero .name {
+  font-family: var(--thermal-display);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+.VPHero .tagline {
+  font-family: var(--thermal-display);
+  color: var(--vp-c-text-2);
+}
+
+.VPHero .text {
+  color: var(--vp-c-text-1);
+}
