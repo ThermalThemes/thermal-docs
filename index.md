@@ -7,16 +7,16 @@ hero:
   tagline: "Shopify themes for stores that sell things people study before they buy. Each theme ships with its own documentation — install, sections, customizing, presets, FAQ, changelog."
   actions:
     - theme: brand
-      text: Lacquer →
-      link: /lacquer/
+      text: Sickbird →
+      link: /sickbird/
     - theme: alt
       text: Studio
       link: https://thermalthemes.com
 
 features:
-  - title: Lacquer
-    details: A graphic-led theme for drop-model brands — skateboard decks, apparel, audio gear, design objects. 33-section library, 14 templates, two product layouts, Lighthouse 99/100/96/100.
-    link: /lacquer/
+  - title: Sickbird
+    details: A loud, type-forward theme for board sports and graphic-led brands — decks, apparel, hard goods sold in numbered runs. 27 drop-in sections, 14 templates, filter drawer, mega menu, display type scale, Lighthouse accessibility 97.
+    link: /sickbird/
     linkText: Read the docs
 ---
 
