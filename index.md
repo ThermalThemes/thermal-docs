@@ -4,19 +4,19 @@ layout: home
 hero:
   name: "THERMAL/DOCS"
   text: "Documentation for Thermal Themes."
-  tagline: "Shopify themes for stores that sell things people study before they buy. Each theme ships with its own documentation — install, sections, customizing, presets, FAQ, changelog."
+  tagline: "Shopify themes for brands whose storefront has to carry the identity, not just list the catalog. Each theme ships with its own documentation — install, sections, customizing, presets, FAQ, changelog."
   actions:
     - theme: brand
-      text: Sickbird →
-      link: /sickbird/
+      text: Prismatic →
+      link: /prismatic/
     - theme: alt
       text: Studio
       link: https://thermalthemes.com
 
 features:
-  - title: Sickbird
-    details: A loud, type-forward theme for board sports and graphic-led brands — decks, apparel, hard goods sold in numbered runs. 27 drop-in sections, 14 templates, filter drawer, mega menu, display type scale, Lighthouse accessibility 97.
-    link: /sickbird/
+  - title: Prismatic
+    details: One theme, a spectrum of stores. An expressive section system and editorial product pages, with a complete demo store per preset. 33 drop-in sections, 14 templates, filter drawer, mega menu, six product-gallery layouts, display type scale. Launching with the Inkling preset — Sickbird follows.
+    link: /prismatic/
     linkText: Read the docs
 ---
 

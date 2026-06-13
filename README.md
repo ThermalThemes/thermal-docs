@@ -5,7 +5,7 @@ Documentation site for Thermal Themes. Built with [VitePress](https://vitepress.
 ## Structure
 
 - `index.md` — Landing page listing Thermal's themes.
-- `lacquer/` — Lacquer theme documentation. Overview, getting-started, sections, customizing, presets, FAQ, changelog, contact.
+- `prismatic/` — Prismatic theme documentation. Overview, getting-started, sections, customizing, presets, FAQ, changelog, contact.
 - `.vitepress/config.ts` — VitePress site configuration. Navigation, sidebars, search, theme metadata.
 - `.vitepress/theme/` — Theme overrides matching thermalthemes.com's instrumentation register (dark stage, mono data, heat accent).
 - `public/CNAME` — Custom domain configuration for GitHub Pages.
@@ -36,7 +36,7 @@ Pushes to `main` trigger the GitHub Actions workflow at `.github/workflows/deplo
 
 When a new Thermal theme ships:
 
-1. Create `{theme}/` at the repo root with the same subtree as `lacquer/`:
+1. Create `{theme}/` at the repo root with the same subtree as `prismatic/`:
    - `{theme}/index.md` — Overview.
    - `{theme}/getting-started/index.md`
    - `{theme}/sections/index.md` + per-section pages.
@@ -49,4 +49,4 @@ When a new Thermal theme ships:
 3. Add a nav link for the new theme in `.vitepress/config.ts` under `themeConfig.nav`.
 4. Add a feature card on `index.md`.
 
-The Lacquer subtree is the canonical template. Mirror its structure to keep cross-theme docs consistent.
+The Prismatic subtree is the canonical template. Mirror its structure to keep cross-theme docs consistent.
