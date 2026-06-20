@@ -9,12 +9,11 @@ Prismatic is configured through the Shopify theme editor — no code editing req
 
 ## Color schemes
 
-Color schemes are defined in theme settings and designed to alternate hard from section to section. How many you get and what they look like is a preset decision — the Inkling launch preset ships nine (a cream paper base with riso brights), the Sickbird preset four. The Sickbird preset's four schemes, as a worked example:
+Color schemes are defined in theme settings and designed to alternate hard from section to section. How many you get and what they look like is a preset decision — the Prismatic preset ships nine: a cream paper base with riso brights to clash against it. A few of them, as a worked example:
 
-- **Scheme 1 — Paper** — Off-white paper background (`#F4F2ED`), near-black ink text, burnt-orange accent. The default scheme.
-- **Scheme 2 — Ink** — Near-black background (`#131414`), paper text, hot-orange accent and orange primary button. The inversion scheme; used for graphic slabs, the header, and the footer.
-- **Scheme 3 — Surf** — Cold reef green (`#2E5A4F`), paper text, peach accent. The secondary graphic color.
-- **Scheme 4 — Orange** — Safety orange (`#FF5A1F`), ink text. The accent slab — use at most once per page.
+- **Scheme 1 — Paper** — Cream paper background (`#F6EFE0`), near-black ink text. The default scheme.
+- **Scheme 2 — Ink** — Near-black background (`#1C1A17`), paper text. The inversion scheme; used for graphic slabs, the header, and the footer.
+- **Riso brights** — Pink, blue, yellow, green, orange, and purple schemes, each a saturated field meant to clash against the cream base. Used as the loud accent slabs — drop one in where the page needs to shout.
 
 Each scheme defines ten roles:
 
@@ -33,11 +32,11 @@ Status colors — sale and sold-out badges, success/warning/error — are set se
 
 ### Scheme rhythm
 
-Every section has a `color_scheme` picker. The intended rhythm alternates Paper and Ink down the page, with Surf as a change-up and Orange as the single loudest moment. Adjacent sections sharing a scheme merge visually into one slab — sometimes that's the point.
+Every section has a `color_scheme` picker. The intended rhythm alternates the cream Paper base and Ink down the page, dropping a riso bright in as the loudest moment. Adjacent sections sharing a scheme merge visually into one slab — sometimes that's the point.
 
 ## Typography
 
-Three font axes, set at **Theme settings → Typography** — any Shopify font works, and each preset picks its own (the Inkling preset uses Bebas Neue / Work Sans / Space Mono; the Sickbird preset uses Oswald Bold / Work Sans / Space Mono):
+Three font axes, set at **Theme settings → Typography** — any Shopify font works (the Prismatic preset uses Bebas Neue / Work Sans / Space Mono):
 
 - **Heading font** — the display face; condensed and structural.
 - **Body font** — a neutral grotesque that stays legible against the loud display type.
@@ -45,11 +44,11 @@ Three font axes, set at **Theme settings → Typography** — any Shopify font w
 
 The scale controls are where the register lives:
 
-- **Heading size scale** — 75–200%. The Sickbird preset runs 140%; the Inkling preset 110%.
-- **Heading capitalization** — The Sickbird preset is `uppercase`.
-- **Heading letter spacing** — The Sickbird preset is `tight`.
-- **Body text size** — Set per breakpoint (Sickbird preset: 17px desktop, 15px mobile).
-- **Button font / capitalization / letter spacing** — The Sickbird preset sets buttons in the mono font, uppercase, wide-tracked; the Inkling preset sets them in the heading font.
+- **Heading size scale** — 75–200%. The Prismatic preset runs 110%.
+- **Heading capitalization** — `none`, `uppercase`, or `lowercase`.
+- **Heading letter spacing** — `tight`, `normal`, or `wide`.
+- **Body text size** — Set per breakpoint.
+- **Button font / capitalization / letter spacing** — The Prismatic preset sets buttons in the heading font.
 
 Swapping fonts keeps every size and spacing relationship; the loudness is in the scale settings, not the font files. A quieter store can drop the heading scale toward 100% and set capitalization to `none` without touching anything else.
 
@@ -57,9 +56,9 @@ Swapping fonts keeps every size and spacing relationship; the loudness is in the
 
 **Theme settings → Appearance**:
 
-- **Page width** — 1000–1600px. The Sickbird preset runs 1400; the Inkling preset 1500.
+- **Page width** — 1000–1600px. The Prismatic preset runs 1500.
 - **Section spacing** — Five levels from `compact` to `generous`, scaling the default vertical rhythm between sections.
-- **Button corner radius** and **Input corner radius** — The Sickbird preset runs 0 (square corners are part of its stamped register); the Inkling preset runs 3.
+- **Button corner radius** and **Input corner radius** — The Prismatic preset runs 3.
 - **Icon line weight** — 1–2.5.
 
 ## Motion
@@ -67,7 +66,7 @@ Swapping fonts keeps every size and spacing relationship; the loudness is in the
 **Theme settings → Motion**:
 
 - **Animations** — Master toggle. The theme also respects the visitor's reduced-motion preference automatically.
-- **Animation style** — `restrained`, `weighted`, `standard`, `expressive`, `playful`. Sets the character of hovers, reveals, and transitions theme-wide; each preset picks the style that fits its register. The scroll-story pin and gallery transitions inherit this setting.
+- **Animation style** — `restrained`, `weighted`, `standard`, `expressive`, `playful`. Sets the character of hovers, reveals, and transitions theme-wide; pick the style that fits your register. The scroll-story pin and gallery transitions inherit this setting.
 
 ## Cart
 
@@ -94,5 +93,5 @@ Layout per template is the section list in the theme editor — add, remove, reo
 ## Next steps
 
 - [Sections reference](../sections/) — every section's settings and blocks.
-- [Presets](../presets/) — what the Inkling and Sickbird presets configure.
+- [Presets](../presets/) — what the Prismatic preset configures.
 - [FAQ](../faq/) — common customization questions.

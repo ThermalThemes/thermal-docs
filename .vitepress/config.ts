@@ -102,7 +102,7 @@ export default defineConfig({
           text: 'Presets',
           collapsed: false,
           items: [
-            { text: 'Inkling & Sickbird', link: '/prismatic/presets/' },
+            { text: 'Preset', link: '/prismatic/presets/' },
           ],
         },
         {

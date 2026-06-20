@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: Prismatic
-    details: One theme, a spectrum of stores. An expressive section system and editorial product pages, with a complete demo store per preset. 33 drop-in sections, 14 templates, filter drawer, mega menu, six product-gallery layouts, display type scale. Launching with the Inkling preset — Sickbird follows.
+    details: One theme, a complete demo store. An expressive section system and editorial product pages, with a fully merchandised demo store. 33 drop-in sections, 14 templates, filter drawer, mega menu, six product-gallery layouts, display type scale. Ships with the Prismatic preset.
     link: /prismatic/
     linkText: Read the docs
 ---

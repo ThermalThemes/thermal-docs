@@ -1,13 +1,13 @@
 ---
 title: Prismatic
-description: An expressive Shopify theme built to carry a brand's identity — editorial product pages, a deep section system, and a complete demo store per preset.
+description: An expressive Shopify theme built to carry a brand's identity — editorial product pages, a deep section system, and a complete demo store.
 ---
 
 # Prismatic
 
-Prismatic is Thermal Themes' first theme — one theme, a spectrum of stores. It pairs an expressive section system with editorial product pages and ships a complete, fully merchandised demo store for every preset. Named for Grand Prismatic Spring: a single source throwing off a full spectrum of color. The theme is built on the thermal-base substrate; presets are how its range shows up as finished stores.
+Prismatic is Thermal Themes' first theme — one theme, a complete demo store. It pairs an expressive section system with editorial product pages and ships a complete, fully merchandised demo store. Named for Grand Prismatic Spring: a single source throwing off a full spectrum of color. The theme is built on the thermal-base substrate; the preset is how its range shows up as a finished store.
 
-Prismatic launches with the **Inkling** preset — a loud, joyful, print-shop register — with **Sickbird**, a darker board-sports register, to follow. The substrate is shared across presets; each preset is a starting point you replace with your own content. See [Presets](./presets/) for how each one is configured.
+Prismatic ships with the **Prismatic** preset — a loud, joyful, print-shop register — and a complete demo store, branded **Inkling**, an artist-collab catalog. The preset is a starting point you replace with your own content. See [Presets](./presets/) for how the preset is configured.
 
 ## Who it's for
 
@@ -17,7 +17,7 @@ Brands whose storefront has to carry the identity, not just list the catalog. In
 
 - **33 drop-in sections** plus configurable header, footer, and announcement bar — 52 section files in total — built on the thermal-base substrate
 - **14 templates** — home, product, collection, collections list, cart, search, blog, article, page, contact, theme features, 404, password, gift card
-- **Configurable color schemes** designed to alternate per section — define as many as you need; the Inkling preset ships 9, Sickbird ships 4
+- **Configurable color schemes** designed to alternate per section — define as many as you need; the Prismatic preset ships 9
 - **Display type scale** — most sections can render their heading at an oversized display size, up to poster scale
 - **Collection filtering** with sidebar, top-bar, or off-canvas drawer layouts, removable filter chips, and load-more pagination
 - **Mega menu** — multi-level navigation with an optional feature image panel
@@ -31,7 +31,7 @@ Brands whose storefront has to carry the identity, not just list the catalog. In
 - [Install and set up](./getting-started/) — Theme Store install, demo content, first publish.
 - [Sections reference](./sections/) — every section, every setting, every block.
 - [Customizing](./customizing/) — color schemes, typography, layout decisions.
-- [Presets](./presets/) — Inkling and Sickbird, how each is configured, and how presets work.
+- [Presets](./presets/) — the Prismatic preset, how it's configured, and how presets work.
 - [FAQ](./faq/) — common questions and answers.
 - [Changelog](./changelog/) — version history.
 - [Contact](./contact/) — get help.

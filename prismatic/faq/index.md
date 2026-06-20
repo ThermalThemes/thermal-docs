@@ -38,7 +38,7 @@ The rating displays on product cards and the product page read Shopify's product
 
 ## What fonts does Prismatic use?
 
-It depends on the preset. The Inkling preset uses Bebas Neue (headings), Work Sans (body), Space Mono (labels, eyebrows, buttons); the Sickbird preset uses Oswald Bold (headings), Work Sans (body), Space Mono (labels). All three axes swap independently at **Theme settings → Typography** from Shopify's font library. The scale, capitalization, and tracking settings — not the font files — carry the register.
+The Prismatic preset uses Bebas Neue (headings), Work Sans (body), Space Mono (labels, eyebrows, buttons). All three axes swap independently at **Theme settings → Typography** from Shopify's font library. The scale, capitalization, and tracking settings — not the font files — carry the register.
 
 ## How do I add custom CSS?
 

@@ -89,7 +89,7 @@ The **display size** setting on the Heading block is the theme's signature move:
 
 ## Composition notes
 
-Every section ships with a `color_scheme` picker. Alternating schemes hard from section to section is the primary register lever — and which schemes you alternate is a preset decision. Each preset ships its own palette (the Inkling preset runs nine riso brights on cream; Sickbird runs a four-scheme paper/ink/surf/orange rotation); see [Presets](../presets/) for what each one defines.
+Every section ships with a `color_scheme` picker. Alternating schemes hard from section to section is the primary register lever — and which schemes you alternate is a preset decision. The Prismatic preset runs nine riso brights on cream; see [Presets](../presets/) for what it defines.
 
 Every section has independent top and bottom padding controls (0–160px). The default spacing is intentional but not universal — poster-dense homepages and long-form editorial pages want different cadences.
 

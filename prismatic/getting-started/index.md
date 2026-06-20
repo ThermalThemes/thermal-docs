@@ -17,7 +17,7 @@ You can run Prismatic side-by-side with your current published theme. Nothing on
 
 ## Load demo content
 
-Prismatic installs with a preset configured with sample copy, placeholder images, and section settings tuned to that preset's register. New stores see the preset on first install. The launch preset is Inkling; see [Presets](../presets/) for what Inkling and Sickbird each configure.
+Prismatic installs with the Prismatic preset configured with sample copy, placeholder images, and section settings tuned to its register. New stores see the preset on first install. The demo store is branded **Inkling**, an artist-collab catalog; see [Presets](../presets/) for what the preset configures.
 
 The preset is a starting point, not a finished store. Replace placeholder images with your own photography and product graphics, swap sample copy for your own language, and adjust color schemes and typography to match your brand. The [Customizing](../customizing/) guide covers the customization surfaces.
 
