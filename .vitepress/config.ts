@@ -28,10 +28,106 @@ export default defineConfig({
     nav: [
       { text: 'Themes', link: '/#themes' },
       { text: 'Prismatic', link: '/prismatic/' },
+      { text: 'Firehole', link: '/firehole/' },
       { text: 'Studio', link: 'https://thermalthemes.com' },
     ],
 
     sidebar: {
+      '/firehole/': [
+        {
+          text: 'Firehole',
+          items: [
+            { text: 'Overview', link: '/firehole/' },
+          ],
+        },
+        {
+          text: 'Getting started',
+          collapsed: false,
+          items: [
+            { text: 'Install and set up', link: '/firehole/getting-started/' },
+          ],
+        },
+        {
+          text: 'Sections',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/firehole/sections/' },
+            { text: 'Header', link: '/firehole/sections/header' },
+            { text: 'Footer', link: '/firehole/sections/footer' },
+            { text: 'Announcement bar', link: '/firehole/sections/announcement-bar' },
+            { text: 'Slideshow', link: '/firehole/sections/slideshow' },
+            { text: 'Featured collection', link: '/firehole/sections/featured-collection' },
+            { text: 'Featured product', link: '/firehole/sections/featured-product' },
+            { text: 'Image with text', link: '/firehole/sections/image-with-text' },
+            { text: 'Images with text scroll', link: '/firehole/sections/images-with-text-scrolling' },
+            { text: 'Multirow', link: '/firehole/sections/multirow' },
+            { text: 'Media grid', link: '/firehole/sections/media-grid' },
+            { text: 'Dynamic grid', link: '/firehole/sections/dynamic-grid' },
+            { text: 'Multi-column', link: '/firehole/sections/multi-column' },
+            { text: 'Collection list', link: '/firehole/sections/collection-list' },
+            { text: 'Hot spots', link: '/firehole/sections/hot-spots' },
+            { text: 'Shop the look', link: '/firehole/sections/shop-the-look' },
+            { text: 'Before / After', link: '/firehole/sections/before-after' },
+            { text: 'Process steps', link: '/firehole/sections/process-steps' },
+            { text: 'Creator spotlight', link: '/firehole/sections/creator-spotlight' },
+            { text: 'Logo list', link: '/firehole/sections/logo-list' },
+            { text: 'Trust icons', link: '/firehole/sections/trust-icons' },
+            { text: 'Press', link: '/firehole/sections/press' },
+            { text: 'Testimonials', link: '/firehole/sections/testimonials' },
+            { text: 'Countdown', link: '/firehole/sections/countdown' },
+            { text: 'Product page', link: '/firehole/sections/product-page' },
+            { text: 'Collection page', link: '/firehole/sections/collection-page' },
+            { text: 'Bundle builder', link: '/firehole/sections/bundle-builder' },
+            { text: 'Product recommendations', link: '/firehole/sections/product-recommendations' },
+            { text: 'Recently viewed', link: '/firehole/sections/recently-viewed' },
+            { text: 'Specification table', link: '/firehole/sections/specification-table' },
+            { text: 'Quick order list', link: '/firehole/sections/quick-order-list' },
+            { text: 'Rich text', link: '/firehole/sections/rich-text' },
+            { text: 'Video', link: '/firehole/sections/video' },
+            { text: 'Accordion', link: '/firehole/sections/accordion-content' },
+            { text: 'Newsletter', link: '/firehole/sections/newsletter' },
+            { text: 'Blog posts', link: '/firehole/sections/blog-posts' },
+            { text: 'Article navigation', link: '/firehole/sections/blog-article-nav' },
+            { text: 'Contact form', link: '/firehole/sections/contact-form' },
+            { text: 'Custom Liquid', link: '/firehole/sections/custom-html' },
+          ],
+        },
+        {
+          text: 'Customizing',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/firehole/customizing/' },
+          ],
+        },
+        {
+          text: 'Presets',
+          collapsed: false,
+          items: [
+            { text: 'Preset', link: '/firehole/presets/' },
+          ],
+        },
+        {
+          text: 'FAQ',
+          collapsed: false,
+          items: [
+            { text: 'Frequently asked', link: '/firehole/faq/' },
+          ],
+        },
+        {
+          text: 'Changelog',
+          collapsed: false,
+          items: [
+            { text: 'Version history', link: '/firehole/changelog/' },
+          ],
+        },
+        {
+          text: 'Support',
+          collapsed: false,
+          items: [
+            { text: 'Contact', link: '/firehole/contact/' },
+          ],
+        },
+      ],
       '/prismatic/': [
         {
           text: 'Prismatic',

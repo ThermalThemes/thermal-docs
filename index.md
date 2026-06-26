@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Prismatic →
       link: /prismatic/
+    - theme: brand
+      text: Firehole →
+      link: /firehole/
     - theme: alt
       text: Studio
       link: https://thermalthemes.com
@@ -17,6 +20,10 @@ features:
   - title: Prismatic
     details: One theme, a complete demo store. An expressive section system and editorial product pages, with a fully merchandised demo store. 33 drop-in sections, 14 templates, filter drawer, mega menu, six product-gallery layouts, display type scale. Ships with the Prismatic preset.
     link: /prismatic/
+    linkText: Read the docs
+  - title: Firehole
+    details: A premium outdoor theme — editorial-landscape storytelling and gear-spec merchandising, with a fully merchandised demo store. 33 drop-in sections, 14 templates, specification tables, spec-on-card, filter drawer, six product-gallery layouts, a Field Journal. Ships with the Firehole preset.
+    link: /firehole/
     linkText: Read the docs
 ---
 
