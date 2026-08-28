@@ -1,0 +1,295 @@
+{
+  "nav": {
+    "text": "Whirligig",
+    "link": "/whirligig/"
+  },
+  "sidebar": [
+    {
+      "text": "Whirligig",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/whirligig/"
+        }
+      ]
+    },
+    {
+      "text": "Getting started",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Install and set up",
+          "link": "/whirligig/getting-started/"
+        }
+      ]
+    },
+    {
+      "text": "Sections",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/whirligig/sections/"
+        },
+        {
+          "text": "Accordion",
+          "link": "/whirligig/sections/accordion-content"
+        },
+        {
+          "text": "Announcement bar",
+          "link": "/whirligig/sections/announcement-bar"
+        },
+        {
+          "text": "Article navigation",
+          "link": "/whirligig/sections/blog-article-nav"
+        },
+        {
+          "text": "Back to top",
+          "link": "/whirligig/sections/back-to-top"
+        },
+        {
+          "text": "Before / After",
+          "link": "/whirligig/sections/before-after"
+        },
+        {
+          "text": "Blog posts",
+          "link": "/whirligig/sections/blog-posts"
+        },
+        {
+          "text": "Bundle builder",
+          "link": "/whirligig/sections/bundle-builder"
+        },
+        {
+          "text": "Cart drawer",
+          "link": "/whirligig/sections/cart-drawer"
+        },
+        {
+          "text": "Collection list",
+          "link": "/whirligig/sections/collection-list"
+        },
+        {
+          "text": "Collections list",
+          "link": "/whirligig/sections/main-list-collections"
+        },
+        {
+          "text": "Contact form",
+          "link": "/whirligig/sections/contact-form"
+        },
+        {
+          "text": "Countdown",
+          "link": "/whirligig/sections/countdown"
+        },
+        {
+          "text": "Creator spotlight",
+          "link": "/whirligig/sections/creator-spotlight"
+        },
+        {
+          "text": "Custom Liquid",
+          "link": "/whirligig/sections/custom-html"
+        },
+        {
+          "text": "Dynamic grid",
+          "link": "/whirligig/sections/dynamic-grid"
+        },
+        {
+          "text": "Featured collection",
+          "link": "/whirligig/sections/featured-collection"
+        },
+        {
+          "text": "Featured product",
+          "link": "/whirligig/sections/featured-product"
+        },
+        {
+          "text": "Footer",
+          "link": "/whirligig/sections/footer"
+        },
+        {
+          "text": "Gift card",
+          "link": "/whirligig/sections/main-gift-card"
+        },
+        {
+          "text": "Header",
+          "link": "/whirligig/sections/header"
+        },
+        {
+          "text": "Home",
+          "link": "/whirligig/sections/main-home"
+        },
+        {
+          "text": "Hot spots",
+          "link": "/whirligig/sections/hot-spots"
+        },
+        {
+          "text": "Image with text",
+          "link": "/whirligig/sections/image-with-text"
+        },
+        {
+          "text": "Images with text scroll",
+          "link": "/whirligig/sections/images-with-text-scrolling"
+        },
+        {
+          "text": "Logo list",
+          "link": "/whirligig/sections/logo-list"
+        },
+        {
+          "text": "Lookbook",
+          "link": "/whirligig/sections/lookbook"
+        },
+        {
+          "text": "Manifesto",
+          "link": "/whirligig/sections/manifesto-pan"
+        },
+        {
+          "text": "Media grid",
+          "link": "/whirligig/sections/media-grid"
+        },
+        {
+          "text": "Multi-column",
+          "link": "/whirligig/sections/multi-column"
+        },
+        {
+          "text": "Multirow",
+          "link": "/whirligig/sections/multirow"
+        },
+        {
+          "text": "Newsletter",
+          "link": "/whirligig/sections/newsletter"
+        },
+        {
+          "text": "Overture",
+          "link": "/whirligig/sections/overture"
+        },
+        {
+          "text": "Password page",
+          "link": "/whirligig/sections/main-password"
+        },
+        {
+          "text": "Press",
+          "link": "/whirligig/sections/press"
+        },
+        {
+          "text": "Process steps",
+          "link": "/whirligig/sections/process-steps"
+        },
+        {
+          "text": "Product recommendations",
+          "link": "/whirligig/sections/product-recommendations"
+        },
+        {
+          "text": "Quick order list",
+          "link": "/whirligig/sections/quick-order-list"
+        },
+        {
+          "text": "Recently viewed",
+          "link": "/whirligig/sections/recently-viewed"
+        },
+        {
+          "text": "Rich text",
+          "link": "/whirligig/sections/rich-text"
+        },
+        {
+          "text": "Search overlay",
+          "link": "/whirligig/sections/search-overlay"
+        },
+        {
+          "text": "Shelf rack",
+          "link": "/whirligig/sections/shelf-rack"
+        },
+        {
+          "text": "Shop the look",
+          "link": "/whirligig/sections/shop-the-look"
+        },
+        {
+          "text": "Slideshow",
+          "link": "/whirligig/sections/slideshow"
+        },
+        {
+          "text": "Specification table",
+          "link": "/whirligig/sections/specification-table"
+        },
+        {
+          "text": "Listening rail",
+          "link": "/whirligig/sections/listening-rail"
+        },
+        {
+          "text": "Article",
+          "link": "/whirligig/sections/main-article"
+        },
+        {
+          "text": "Blog posts",
+          "link": "/whirligig/sections/main-blog"
+        },
+        {
+          "text": "Cart",
+          "link": "/whirligig/sections/main-cart"
+        },
+        {
+          "text": "Collection",
+          "link": "/whirligig/sections/main-collection"
+        },
+        {
+          "text": "404 page",
+          "link": "/whirligig/sections/main-not-found"
+        },
+        {
+          "text": "Page",
+          "link": "/whirligig/sections/main-page"
+        },
+        {
+          "text": "Product",
+          "link": "/whirligig/sections/main-product"
+        },
+        {
+          "text": "Search",
+          "link": "/whirligig/sections/main-search"
+        },
+        {
+          "text": "Nodal field",
+          "link": "/whirligig/sections/nodal-field"
+        },
+        {
+          "text": "Testimonials",
+          "link": "/whirligig/sections/testimonials"
+        },
+        {
+          "text": "The register",
+          "link": "/whirligig/sections/pitch-axis"
+        },
+        {
+          "text": "Trust icons",
+          "link": "/whirligig/sections/trust-icons"
+        },
+        {
+          "text": "Video",
+          "link": "/whirligig/sections/video"
+        }
+      ]
+    },
+    {
+      "text": "Reference",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Customizing",
+          "link": "/whirligig/customizing/"
+        },
+        {
+          "text": "Presets",
+          "link": "/whirligig/presets/"
+        },
+        {
+          "text": "FAQ",
+          "link": "/whirligig/faq/"
+        },
+        {
+          "text": "Changelog",
+          "link": "/whirligig/changelog/"
+        },
+        {
+          "text": "Contact",
+          "link": "/whirligig/contact/"
+        }
+      ]
+    }
+  ]
+}
