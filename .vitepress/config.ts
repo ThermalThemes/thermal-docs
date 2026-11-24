@@ -38,79 +38,79 @@ export default defineConfig({
       { text: 'Prismatic', link: '/prismatic/' },
       { text: 'Firehole', link: '/firehole/' },
       whirligig.nav,
-      { text: 'Plinth', link: '/plinth/' },
+      { text: 'Mammoth', link: '/mammoth/' },
       { text: 'Studio', link: 'https://thermalthemes.com' },
     ],
 
     sidebar: {
-      '/plinth/': [
+      '/mammoth/': [
         {
-          text: 'Plinth',
+          text: 'Mammoth',
           items: [
-            { text: 'Overview', link: '/plinth/' },
+            { text: 'Overview', link: '/mammoth/' },
           ],
         },
         {
           text: 'Getting started',
           collapsed: false,
           items: [
-            { text: 'Install and set up', link: '/plinth/getting-started/' },
-            { text: 'Presets', link: '/plinth/presets/' },
-            { text: 'The Shelf and product imagery', link: '/plinth/shelf/' },
+            { text: 'Install and set up', link: '/mammoth/getting-started/' },
+            { text: 'Presets', link: '/mammoth/presets/' },
+            { text: 'The Shelf and product imagery', link: '/mammoth/shelf/' },
           ],
         },
         {
           text: 'Customizing',
           collapsed: false,
           items: [
-            { text: 'Theme settings', link: '/plinth/customizing/' },
-            { text: 'Colour and grounds', link: '/plinth/customizing/colour' },
-            { text: 'Typography', link: '/plinth/customizing/typography' },
-            { text: 'Translations and languages', link: '/plinth/customizing/translations' },
-            { text: 'Performance tips', link: '/plinth/customizing/performance' },
-            { text: 'Accessibility notes', link: '/plinth/customizing/accessibility' },
+            { text: 'Theme settings', link: '/mammoth/customizing/' },
+            { text: 'Colour and grounds', link: '/mammoth/customizing/colour' },
+            { text: 'Typography', link: '/mammoth/customizing/typography' },
+            { text: 'Translations and languages', link: '/mammoth/customizing/translations' },
+            { text: 'Performance tips', link: '/mammoth/customizing/performance' },
+            { text: 'Accessibility notes', link: '/mammoth/customizing/accessibility' },
           ],
         },
         {
           text: 'Sections',
           collapsed: false,
           items: [
-            { text: 'Overview', link: '/plinth/sections/' },
-            { text: 'Plinth sections', link: '/plinth/sections/signature' },
-            { text: 'Standard sections', link: '/plinth/sections/standard' },
-            { text: 'Product page', link: '/plinth/sections/product-page' },
-            { text: 'Collection and filtering', link: '/plinth/sections/collection' },
-            { text: 'Cart', link: '/plinth/sections/cart' },
-            { text: 'Search', link: '/plinth/sections/search' },
-            { text: 'Header, footer and sign-off', link: '/plinth/sections/header-footer' },
+            { text: 'Overview', link: '/mammoth/sections/' },
+            { text: 'Mammoth sections', link: '/mammoth/sections/signature' },
+            { text: 'Standard sections', link: '/mammoth/sections/standard' },
+            { text: 'Product page', link: '/mammoth/sections/product-page' },
+            { text: 'Collection and filtering', link: '/mammoth/sections/collection' },
+            { text: 'Cart', link: '/mammoth/sections/cart' },
+            { text: 'Search', link: '/mammoth/sections/search' },
+            { text: 'Header, footer and sign-off', link: '/mammoth/sections/header-footer' },
           ],
         },
         {
           text: 'Product data',
           collapsed: false,
           items: [
-            { text: 'Metafields', link: '/plinth/product-data/' },
+            { text: 'Metafields', link: '/mammoth/product-data/' },
           ],
         },
         {
           text: 'FAQ',
           collapsed: false,
           items: [
-            { text: 'Frequently asked', link: '/plinth/faq/' },
+            { text: 'Frequently asked', link: '/mammoth/faq/' },
           ],
         },
         {
           text: 'Changelog',
           collapsed: false,
           items: [
-            { text: 'Version history', link: '/plinth/changelog/' },
+            { text: 'Version history', link: '/mammoth/changelog/' },
           ],
         },
         {
           text: 'Support',
           collapsed: false,
           items: [
-            { text: 'Contact', link: '/plinth/contact/' },
+            { text: 'Contact', link: '/mammoth/contact/' },
           ],
         },
       ],
