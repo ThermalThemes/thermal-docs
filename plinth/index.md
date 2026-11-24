@@ -18,10 +18,11 @@ Plinth works best with product images that have a transparent background (cut-ou
 ## What you get
 
 - **Three presets**: Plinth, Lowfold and Ironwell. Each sets the colours, fonts, spacing and home page arrangement. See [Presets](./presets/).
+<!-- to confirm: the theme on origin/main (2026-11-24) carries three presets, but the first Theme Store submission is planned with two (Plinth and Lowfold). If Ironwell is not in the submitted ZIP, change "Three presets" here, on the Presets page, in Getting started and on the docs home card (/index.md). -->
 - **33 sections you can add to your pages**, plus the header, announcement bar, search overlay, sign-off, footer, cart drawer and back to top button. See [Sections](./sections/).
 - **A product page built from blocks** you can reorder: gallery, badges, price, variant picker with swatches, quantity, buy buttons, inventory status, pickup availability, complementary products, assurances, description and collapsible rows.
 - **Collection pages** with filtering, sorting, a choice of pagination, and promotional tiles inside the product grid.
-- **A cart drawer or a cart page**, with a cart note and discounts shown.
+- **A cart drawer or a cart page**, with discounts shown in both and an order note in the drawer.
 - **Search** with suggestions as the customer types.
 - **Translations** in English, German, Spanish, French and Italian, and support for right-to-left languages.
 

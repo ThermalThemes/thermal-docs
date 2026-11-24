@@ -49,10 +49,10 @@ Apps are the most common cause of a slow store.
 
 ## Sections and products
 
-- A long home page is fine, because sections load as they are reached. Even so, eight to twelve sections is plenty.
+- A long home page is fine, because images further down load only as they are reached. Even so, eight to twelve sections is plenty.
 - On collection pages, each page holds 24 products. **Pagination** can be **Pages** or a **Load more button**.
 - **Custom Liquid** sections and blocks are for small snippets. Large scripts pasted there slow every page they are on.
 
 ## Checking your speed
 
-In the Shopify admin, **Online Store > Themes** shows a speed report for your live theme. For a closer look, run Google's PageSpeed Insights on your home page, a collection page and a product page, on mobile. Test a few times: results vary from run to run.
+Run Google's PageSpeed Insights on your home page, a collection page and a product page, on mobile. Test a few times: results vary from run to run.

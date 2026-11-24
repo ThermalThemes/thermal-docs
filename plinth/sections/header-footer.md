@@ -61,7 +61,7 @@ See [Search](./search).
 
 ## Sign-off
 
-Plinth's closing section: a last large moment on the Shelf, followed by your footer links and legal line. It is the footer the theme installs with.
+Plinth's closing section: a last large moment on the Shelf, a newsletter signup field under the line, then your footer links and legal line. It is the footer the theme installs with.
 
 - **Closing**.
   - **Word and object** (default): the store name fitted beside one object, both on the Shelf.

@@ -9,7 +9,7 @@ description: "How Plinth shows products on a line, what image sizes and formats 
 
 The Shelf is a single line that runs across a section. Products stand on it. Under the line, a small label gives the product's name, its variant, and its price, the way a label sits under an object in a gallery.
 
-You see the Shelf in the Hero, the Product rail, Tabbed collections, the Collection mosaic, Numbers, the sign-off, on collection and search pages, in product recommendations, and in the product page gallery. A product looks the same wherever it is listed.
+You see the Shelf in the Hero, the Product rail, Tabbed collections, the Collection mosaic, Numbers, the sign-off, on collection and search pages, in the Featured collection and Product recommendations sections, and in the product page gallery. A product looks the same wherever it is listed.
 
 Two theme settings control it, under **Theme settings > Shelf**:
 
@@ -24,7 +24,7 @@ How a product image appears depends on the file you uploaded.
 
 | Your image | How Plinth shows it |
 | --- | --- |
-| A **.png with a transparent background** (a cut-out) | The object **stands on the line**. The theme finds the lowest visible part of the object and sets it on the Shelf, with a soft contact shadow. |
+| A **.png with a transparent background** (a cut-out) | The object **stands on the line**. The theme finds the lowest solid part of the object and sets it on the Shelf. |
 | A **.jpg**, or a .png with no transparency | The image is **framed**: shown whole in a 4:5 frame whose bottom edge is the line. |
 | Any image, where a section's **Image style** is set to **Photograph** | The image **fills** a 4:5 frame, cropped to fit. |
 
@@ -39,7 +39,7 @@ For the theme's signature look, upload product images as cut-outs.
 - **Format**: .png with a transparent background.
 - **Trim close to the object.** Leave only a few pixels of empty space around it. Large empty margins make the product look small, because the theme sizes the image, not the object inside it.
 - **Keep the base of the object level** and photograph it straight on or at a slight angle, as it would stand on a table. The lowest visible part of the object is what rests on the line.
-- **Keep the object's own shadow out of the file,** or keep it very faint. The theme draws a contact shadow under the object.
+- **Keep the object's own shadow out of the file,** or keep it very faint. A strong shadow under the object is read as its base, and the object then seems to float above the line.
 - **Use the same camera height and angle across a collection** so products look like they belong on the same shelf.
 - **Make the first product image the cut-out.** Cards, rails and the hero use the product's first image (or the selected variant's image).
 

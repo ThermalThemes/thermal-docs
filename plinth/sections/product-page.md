@@ -18,7 +18,7 @@ The gallery on one side and a column of blocks on the other.
 
 ### Gallery
 
-The gallery is a fixed block. It shows every image, video and 3D model you added to the product, with the selected variant's image first.
+The gallery is a fixed block: it cannot be removed or reordered. It shows every image, video and 3D model you added to the product, with the selected variant's image first.
 
 - An image with a transparent background stands on the Shelf, as it does everywhere else in the theme.
 - A photograph is shown whole, at its own shape. It is never cropped.
@@ -37,13 +37,13 @@ Add, remove and reorder these in the product column.
 | **Badges** | Sold out, or Sale when the variant has a higher compare-at price. Also your own badge from the `custom.badge` metafield | None. Sale uses the Sale colours from theme settings |
 | **Product vendor** | The product's vendor | None |
 | **Product title** | The product's title | None |
-| **Rating** | The average star rating and number of reviews, from your review app | None. Hidden for a product without reviews |
+| **Rating** | The average rating as a figure, such as 4.6 / 5, and the number of reviews, from your review app | None. Hidden for a product without reviews |
 | **Product price** | The price, the compare-at price when on sale, and the unit price when the product is sold by measure | None |
 | **Variant picker** | The product's options | **Style**: **Buttons** (default) or **Dropdown**. Values with a swatch set in the admin show the swatch in the Buttons style |
 | **Quantity selector** | A quantity field with plus and minus buttons | None |
 | **Volume pricing** | Quantity price breaks, for stores using B2B catalogues with volume pricing | None |
 | **Buy buttons** | Add to cart, plus subscription options and the gift card recipient form where they apply | **Show dynamic checkout buttons**. On by default. Not shown on gift cards |
-| **Inventory status** | One line: in stock, low stock, available on backorder, or sold out | **Low stock threshold**: **Off**, **5 or fewer** (default), **10 or fewer** or **20 or fewer**. The quantity itself is never shown |
+| **Inventory status** | One line: In stock, Low stock, Available on backorder or Out of stock | **Low stock threshold**: **Off**, **5 or fewer** (default), **10 or fewer** or **20 or fewer**. The quantity itself is never shown |
 | **Pickup availability** | Whether the variant can be collected from your locations | None. Shows only when local pickup is set up |
 | **Complementary products** | Up to three products you paired with this one in the Search & Discovery app | None. Hidden for a product without pairings |
 | **Assurances** | Two to four rows, each an icon, a short title and an optional line | Add **Icon item** blocks inside it |

@@ -62,6 +62,8 @@ A place for an app snippet or your own code.
 - **Color scheme**.
 - **Liquid code**.
 
+This section takes no blocks.
+
 ## Featured collection
 
 Products from one collection in a grid or carousel. For products standing on the Shelf with more layout choice, see [Product rail](./signature#product-rail).

@@ -35,7 +35,7 @@ It includes:
 - **Express checkout buttons** such as Shop Pay, Apple Pay and Google Pay, under the checkout button, when your payment settings offer them.
 - **App blocks and Custom Liquid blocks.** In the theme editor, open the **Cart drawer** section to add them, for example a shipping protection or upsell app.
 
-When the cart is empty, the drawer shows a short line and a button. **Empty cart link** in theme settings sets where the button leads; your full catalogue is used when it is empty.
+When the cart is empty, the drawer shows a short line and a Continue shopping button. **Empty cart link** in theme settings sets where the button leads; your full catalogue is used when it is empty.
 
 ## Cart page
 

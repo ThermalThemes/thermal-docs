@@ -60,7 +60,7 @@ The home page sections arrive empty. Click each one and choose what it shows:
 - **Annotated product**: choose a **Product**.
 - **Journal**: choose a **Blog**.
 
-A section with nothing chosen shows a placeholder in the editor so you can see its shape.
+A section with nothing chosen shows a placeholder so you can see its shape.
 
 ### 5. Check a product page
 

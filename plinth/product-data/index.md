@@ -16,7 +16,7 @@ It can also read four optional product metafields. Each adds something specific.
 | `custom.spec` | Single line text | A muted spec line under the product name on every card | No spec line |
 | `custom.spec_rows` | JSON | Rows for the Spec table and the Annotated product | Spec table uses the rows you typed, or hides. Annotated product shows without pins and rows |
 | `custom.badge` | Single line text | Your own badge on the product page | Only Sold out or Sale badges show, when they apply |
-| `reviews.rating` and `reviews.rating_count` | Rating and Integer | Stars and review count on the product page | The Rating block is hidden |
+| `reviews.rating` and `reviews.rating_count` | Rating and Integer | The average rating and review count on the product page | The Rating block is hidden |
 
 ## How to create a metafield
 
@@ -89,7 +89,7 @@ One short badge of your own, such as New, Made to order or Limited. It is shown 
 
 These are Shopify's standard review metafields. You do not usually create or fill them yourself: a review app that supports Shopify's standard review metafields fills them in as customers leave reviews.
 
-They are shown by the **Rating** block on the product page.
+They are shown by the **Rating** block on the product page, as a figure such as 4.6 / 5 followed by the number of reviews.
 
 **When empty**: the Rating block shows nothing for that product.
 

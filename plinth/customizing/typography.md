@@ -11,7 +11,7 @@ Plinth uses three fonts, each with one job.
 | --- | --- |
 | **Heading font** | The Hero headline, Statement sections, section titles, and the large word in the sign-off |
 | **Body font** | Running text, buttons and form fields |
-| **Accent font** | The label under each product, subheadings, figures and prices in the Numbers and Spec table sections, and other small labels |
+| **Accent font** | The label under each product, subheadings, figures, and other small labels |
 
 All three are under **Theme settings > Typography** and use Shopify's font library, so they are served from Shopify's servers and need no extra setup.
 

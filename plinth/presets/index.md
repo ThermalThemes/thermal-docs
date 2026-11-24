@@ -5,6 +5,8 @@ description: "What the Plinth, Lowfold and Ironwell presets change, and how to s
 
 # Presets
 
+<!-- to confirm: three presets exist in the theme on origin/main (2026-11-24). The first submission is planned with Plinth and Lowfold only. Remove the Ironwell column and section if Ironwell does not ship. -->
+
 Plinth comes with three presets. A preset is a starting point: a set of colours, fonts, spacing and a home page arrangement. Every preset uses the same sections and the same settings, so anything one preset does you can do in another.
 
 ## What each preset sets

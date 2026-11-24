@@ -37,7 +37,7 @@ A "ground" is the background a section sits on. Plinth's own sections do not hav
 | Shop the set, Before and after | Scheme 5 | Scheme 5 | Scheme 6 |
 | Statement | Scheme 7 | Scheme 7 | Scheme 7 |
 
-The Ticker sits on the quiet background for the ground you chose, or on Scheme 7 when its **Accent ground** option is on. An Image banner in the Overlay arrangement uses the **Overlay color scheme**.
+The Ticker sits on the quiet background for the ground you chose (Scheme 1 on Split, Scheme 3 on Dark, Scheme 6 on Light), or on Scheme 7 when its **Accent ground** option is on. An Image banner uses the **Overlay color scheme** in the Overlay arrangement, the same quiet background in the Caption arrangement, and Scheme 7 in the Split arrangement.
 
 The standard sections (Rich text, Multi-column, Featured collection and the others listed under [Standard sections](../sections/standard)) each have their own **Color scheme** setting. Choose a scheme that matches the sections around them.
 
@@ -51,7 +51,7 @@ This keeps the areas between and around sections, and pages such as the cart, on
 
 ## Changing the accent
 
-The accent appears in small places (index numbers, the active row of a spec, hover on links) and as a full background on Statement sections.
+The accent appears in small details and as a full background on Statement sections.
 
 The accent is stored in every scheme, and it is not the same value in each. On a dark background the accent is a lighter shade of the same colour; on a light background, a darker one. This is so accent-coloured text stays readable everywhere.
 

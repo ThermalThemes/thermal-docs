@@ -51,7 +51,7 @@ Set **Theme settings > Colors > Default color scheme** to Scheme 3. The default 
 
 ### Can I use my own font?
 
-Plinth uses Shopify's font library, which includes several hundred fonts, chosen under **Theme settings > Typography**. Using a font that is not in the library requires code changes, which are outside theme support.
+Plinth uses Shopify's font library, chosen under **Theme settings > Typography**. Using a font that is not in the library requires code changes, which are outside theme support.
 
 ### My headings look too heavy or too tight after changing the font.
 
@@ -103,7 +103,7 @@ Yes. Set **Theme settings > Cart > Cart type** to **Page**.
 
 ### Does Plinth have quick view or quick add?
 
-There is no quick view. In the Hero, Numbers and Annotated product sections, customers can add the featured product to the cart directly. On Shelf labels with colour swatches, customers can change colour in place.
+There is no quick view, and product cards on collection pages have no add button. In the Hero, Numbers, Annotated product and Shop the set sections, and in the Complementary products block on the product page, customers can add a product to the cart directly. On Shelf labels with colour swatches, customers can change colour in place.
 
 ### Does Plinth support subscriptions, pickup and gift cards?
 

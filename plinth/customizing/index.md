@@ -27,7 +27,8 @@ Theme settings apply to the whole store. Open the theme editor and click **Theme
 
 - **Heading font**. Headlines, statements and section titles.
 - **Body font**. Running text, buttons and form fields.
-- **Accent font**. Subheadings, labels and buttons. In Plinth this is also the font of the label under each product and of every figure, so a monospace font suits it.
+- **Accent font**. Subheadings and small labels. In Plinth this is also the font of the label under each product and of every figure, so a monospace font suits it.
+<!-- to confirm: the editor's help text for Accent font reads "Subheadings, labels and buttons", but Plinth sets buttons in the Body font (src/css/tokens/plinth.css, --button-font-family). The docs follow what the theme does; align the setting's help text or this line. -->
 - **Text size**. **Compact**, **Standard** (default) or **Large**. Scales text across the store.
 
 See [Typography](./typography).
@@ -41,6 +42,7 @@ See [Typography](./typography).
 
 - **Cart type**. **Drawer** (default) or **Page**. See [Cart](../sections/cart).
 - **Empty cart link**. Where the button in an empty cart leads. Your full catalogue is used when this is empty.
+<!-- to confirm: on origin/main (2026-11-24) the cart drawer follows this setting; the cart page (scaffold, being rebuilt) always links to the full catalogue. Re-check when the cart page lands. -->
 
 ## Social media
 

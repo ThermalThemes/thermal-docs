@@ -13,7 +13,7 @@ Unless noted, every section here also accepts **Heading**, **Subheading**, **Tex
 
 The opening of a page. A large headline of two or three lines, with a product standing on the Shelf beside or beneath it, and a short aside.
 
-The Hero has three fixed blocks and can hold up to four blocks in total.
+The Hero has three fixed blocks, and you can add up to four more blocks to it.
 
 **Headline**
 
@@ -24,7 +24,7 @@ The Hero has three fixed blocks and can hold up to four blocks in total.
 - **Composition**.
   - **Split**: one tall object rising through the headline.
   - **Wide**: one wide object under the headline, rising into its last line.
-  - **Line-up**: several objects in a row under the headline, never touching it.
+  - **Line-up**: objects in a row under the headline, never touching it.
 - **Line-up position**. **Spread**, **Start**, **Center** or **End**. Line-up only: where the objects stand on the Shelf.
 - **Product**. Named, priced and added to the cart from the label under the object.
 - **Image**. A cut-out on a transparent background, trimmed close to the object. Leave empty to use the product's first image. 1600px tall or more is recommended.
