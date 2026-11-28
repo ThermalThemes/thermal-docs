@@ -25,6 +25,10 @@ features:
     details: A premium outdoor theme — editorial-landscape storytelling and gear-spec merchandising, with a fully merchandised demo store. 33 drop-in sections, 14 templates, specification tables, spec-on-card, filter drawer, six product-gallery layouts, a Field Journal. Ships with the Firehole preset.
     link: /firehole/
     linkText: Read the docs
+  - title: Mammoth
+    details: Every product stands on one line. Cut-out product images stand on the Shelf with a gallery label beneath; large type and a single accent do the rest. Three presets, 33 sections, filtering, cart drawer, five languages.
+    link: /mammoth/
+    linkText: Read the docs
 ---
 
 <style>
