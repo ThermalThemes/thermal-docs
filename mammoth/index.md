@@ -17,7 +17,7 @@ Mammoth works best with product images that have a transparent background (cut-o
 
 ## What you get
 
-- **Three presets**: Stillroom, Lowfold and Ironwell. Each sets the colours, fonts, spacing and home page arrangement. See [Presets](./presets/).
+- **One preset, Mammoth**: it sets the colours, fonts, spacing and home page arrangement you see on the Stillroom demo store. See [Presets](./presets/).
 - **33 sections you can add to your pages**, plus the header, announcement bar, search overlay, sign-off, footer, cart drawer and back to top button. See [Sections](./sections/).
 - **A product page built from blocks** you can reorder: gallery, badges, price, variant picker with swatches, quantity, buy buttons, inventory status, pickup availability, complementary products, assurances, description and collapsible rows.
 - **Collection pages** with filtering, sorting, a choice of pagination, and promotional tiles inside the product grid.

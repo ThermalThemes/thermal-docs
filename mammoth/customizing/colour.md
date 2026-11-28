@@ -9,9 +9,9 @@ Mammoth keeps the interface in two tones, dark and light, and adds one accent co
 
 ## The seven schemes
 
-Under **Theme settings > Colors** there are seven colour schemes. In Mammoth each one has a job. The table uses the Stillroom preset's colours; Lowfold and Ironwell have the same seven jobs with their own colours.
+Under **Theme settings > Colors** there are seven colour schemes. In Mammoth each one has a job. The table uses the Mammoth preset's colours, as on the Stillroom demo store.
 
-| Scheme | Job | Stillroom preset |
+| Scheme | Job | Mammoth preset |
 | --- | --- | --- |
 | Scheme 1 | The main light background | Warm off-white |
 | Scheme 2 | The alternate light background | A slightly deeper off-white |

@@ -35,7 +35,7 @@ See [Typography](./typography).
 
 ## Layout
 
-- **Page width**. **Compact**, **Standard** (default) or **Spacious**. The widest the content grows on large screens. All three presets use Spacious.
+- **Page width**. **Compact**, **Standard** (default) or **Spacious**. The widest the content grows on large screens. The Mammoth preset uses Spacious.
 - **Section spacing**. **Compact**, **Standard** (default) or **Generous**. The space between sections. Neighbouring sections that share a colour scheme sit closer together.
 
 ## Cart

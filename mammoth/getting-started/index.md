@@ -11,7 +11,7 @@ This page takes you from installing Mammoth to a store that looks like yours. It
 
 1. In your Shopify admin, go to **Online Store > Themes**.
 2. Add Mammoth from the Shopify Theme Store. It appears in your theme library as an unpublished theme, so your live store does not change yet.
-3. Choose the preset you want when you add the theme: **Stillroom**, **Lowfold** or **Ironwell**. [Presets](../presets/) describes each one. You can change every setting a preset makes later.
+3. Mammoth comes with one preset, also called **Mammoth**: the look of the Stillroom demo store. [Presets](../presets/) lists what it sets. You can change every one of those settings later.
 4. Click **Customize** to open the theme editor.
 
 You can try Mammoth for as long as you like before you buy it. You pay only when you publish.
